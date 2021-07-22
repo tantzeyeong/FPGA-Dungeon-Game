@@ -3,6 +3,6 @@ This repository contains the files that my partner, Tze Yeong (**github.com/tant
 
 The **SourceFiles** folder shows the main verilog code files used.
 
-The **MemoryInitialization** folder mostly details the images used for the dungeon game.
+The **MemoryInitialization** folder mostly details the images used for the dungeon game as well as the method used to upload the images onto the board and PmodOLED.
 
 The **Project Summary** file summarizes the features developed by us with images taken.

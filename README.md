@@ -5,4 +5,4 @@ The **SourceFiles** folder shows the main verilog code files used.
 
 The **MemoryInitialization** folder mostly details the images used for the dungeon game.
 
-The **Project Summary** file summarizes the features developed by us.
+The **Project Summary** file summarizes the features developed by us with images taken.
